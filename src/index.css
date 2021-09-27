@@ -5,9 +5,29 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  color: rgb(6, 95, 107);
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.card{
+  margin-bottom : 5rem;
+  border-radius: 15px;
+}
+.answer{
+  margin: 5rem;
+}
+.question-tab{
+  margin: 5rem;
+}
+.navbar{
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+h1{
+  color:rgb(26, 117, 121);
+  font-weight: bolder;
 }
